@@ -64,4 +64,4 @@ The accuracy of the results can be determined as an additional feature by compar
 ## Documentation
 For more technical details, I strongly recommend going through the [documentation](https://github.com/GeorgeGit03/Support-Vector-Machine---Car-classification-/blob/main/Documentation.pdf).
 
-Licensed under the [MIT License]().
+Licensed under the [MIT License](https://github.com/GeorgeGit03/Support-Vector-Machine---Car-classification-/blob/main/License.txt).
