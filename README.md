@@ -58,3 +58,4 @@ Thus, text files that indicate the degree of belonging of an instance to a certa
 
 ## Accuracy
 The accuracy of the results can be determined as an additional feature by comparing the percentage for each class in the text file car.names, respectively from the results above provided by running the code from the file **'Clasificator.sln'**.
+![Distribution](https://user-images.githubusercontent.com/67193200/170873702-79b3b5c2-a3a5-40f7-8b39-578d9b2d81c1.JPG)
