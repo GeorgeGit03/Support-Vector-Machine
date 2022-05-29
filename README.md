@@ -14,3 +14,5 @@ This project was developed in the C# language within the Visual Studio developme
 Below is a useful link for downloading Visual Studio 2022.
 
 [Download Visual Studio](https://visualstudio.microsoft.com/downloads/)
+
+The project has a modular structure and the order of execution of the source files is important because succesively intermediate data files are generated, starting from the files with training and testing data: dataSet.data and dataTest.data.
