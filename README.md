@@ -62,4 +62,4 @@ The accuracy of the results can be determined as an additional feature by compar
 ![Distribution](https://user-images.githubusercontent.com/67193200/170873702-79b3b5c2-a3a5-40f7-8b39-578d9b2d81c1.JPG)
 
 ## Documentation
-For more technical details, I strongly recommend going through the [documentation].
+For more technical details, I strongly recommend going through the [documentation](https://github.com/GeorgeGit03/Support-Vector-Machine---Car-classification-/blob/main/Documentation.pdf).
