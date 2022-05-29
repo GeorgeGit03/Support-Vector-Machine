@@ -1,0 +1,42 @@
+D:\Fac\IA\Implementare_Proiect\Quantification\Quantification\bin\Debug\netcoreapp3.1\Quantification.exe
+D:\Fac\IA\Implementare_Proiect\Quantification\Quantification\bin\Debug\netcoreapp3.1\Quantification.deps.json
+D:\Fac\IA\Implementare_Proiect\Quantification\Quantification\bin\Debug\netcoreapp3.1\Quantification.runtimeconfig.json
+D:\Fac\IA\Implementare_Proiect\Quantification\Quantification\bin\Debug\netcoreapp3.1\Quantification.runtimeconfig.dev.json
+D:\Fac\IA\Implementare_Proiect\Quantification\Quantification\bin\Debug\netcoreapp3.1\Quantification.dll
+D:\Fac\IA\Implementare_Proiect\Quantification\Quantification\bin\Debug\netcoreapp3.1\Quantification.pdb
+D:\Fac\IA\Implementare_Proiect\Quantification\Quantification\obj\Debug\netcoreapp3.1\Quantification.csproj.AssemblyReference.cache
+D:\Fac\IA\Implementare_Proiect\Quantification\Quantification\obj\Debug\netcoreapp3.1\Quantification.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fac\IA\Implementare_Proiect\Quantification\Quantification\obj\Debug\netcoreapp3.1\Quantification.AssemblyInfoInputs.cache
+D:\Fac\IA\Implementare_Proiect\Quantification\Quantification\obj\Debug\netcoreapp3.1\Quantification.AssemblyInfo.cs
+D:\Fac\IA\Implementare_Proiect\Quantification\Quantification\obj\Debug\netcoreapp3.1\Quantification.csproj.CoreCompileInputs.cache
+D:\Fac\IA\Implementare_Proiect\Quantification\Quantification\obj\Debug\netcoreapp3.1\Quantification.dll
+D:\Fac\IA\Implementare_Proiect\Quantification\Quantification\obj\Debug\netcoreapp3.1\Quantification.pdb
+D:\Fac\IA\Implementare_Proiect\Quantification\Quantification\obj\Debug\netcoreapp3.1\Quantification.genruntimeconfig.cache
+D:\Linked In\Proiecte\Implementare_Proiect\Quantification\Quantification\bin\Debug\netcoreapp3.1\Quantification.exe
+D:\Linked In\Proiecte\Implementare_Proiect\Quantification\Quantification\bin\Debug\netcoreapp3.1\Quantification.deps.json
+D:\Linked In\Proiecte\Implementare_Proiect\Quantification\Quantification\bin\Debug\netcoreapp3.1\Quantification.runtimeconfig.json
+D:\Linked In\Proiecte\Implementare_Proiect\Quantification\Quantification\bin\Debug\netcoreapp3.1\Quantification.runtimeconfig.dev.json
+D:\Linked In\Proiecte\Implementare_Proiect\Quantification\Quantification\bin\Debug\netcoreapp3.1\Quantification.dll
+D:\Linked In\Proiecte\Implementare_Proiect\Quantification\Quantification\bin\Debug\netcoreapp3.1\Quantification.pdb
+D:\Linked In\Proiecte\Implementare_Proiect\Quantification\Quantification\obj\Debug\netcoreapp3.1\Quantification.csproj.AssemblyReference.cache
+D:\Linked In\Proiecte\Implementare_Proiect\Quantification\Quantification\obj\Debug\netcoreapp3.1\Quantification.GeneratedMSBuildEditorConfig.editorconfig
+D:\Linked In\Proiecte\Implementare_Proiect\Quantification\Quantification\obj\Debug\netcoreapp3.1\Quantification.AssemblyInfoInputs.cache
+D:\Linked In\Proiecte\Implementare_Proiect\Quantification\Quantification\obj\Debug\netcoreapp3.1\Quantification.AssemblyInfo.cs
+D:\Linked In\Proiecte\Implementare_Proiect\Quantification\Quantification\obj\Debug\netcoreapp3.1\Quantification.csproj.CoreCompileInputs.cache
+D:\Linked In\Proiecte\Implementare_Proiect\Quantification\Quantification\obj\Debug\netcoreapp3.1\Quantification.dll
+D:\Linked In\Proiecte\Implementare_Proiect\Quantification\Quantification\obj\Debug\netcoreapp3.1\Quantification.pdb
+D:\Linked In\Proiecte\Implementare_Proiect\Quantification\Quantification\obj\Debug\netcoreapp3.1\Quantification.genruntimeconfig.cache
+D:\Support_Vector_Machine\Quantification\Quantification\bin\Debug\netcoreapp3.1\Quantification.exe
+D:\Support_Vector_Machine\Quantification\Quantification\bin\Debug\netcoreapp3.1\Quantification.deps.json
+D:\Support_Vector_Machine\Quantification\Quantification\bin\Debug\netcoreapp3.1\Quantification.runtimeconfig.json
+D:\Support_Vector_Machine\Quantification\Quantification\bin\Debug\netcoreapp3.1\Quantification.runtimeconfig.dev.json
+D:\Support_Vector_Machine\Quantification\Quantification\bin\Debug\netcoreapp3.1\Quantification.dll
+D:\Support_Vector_Machine\Quantification\Quantification\bin\Debug\netcoreapp3.1\Quantification.pdb
+D:\Support_Vector_Machine\Quantification\Quantification\obj\Debug\netcoreapp3.1\Quantification.csproj.AssemblyReference.cache
+D:\Support_Vector_Machine\Quantification\Quantification\obj\Debug\netcoreapp3.1\Quantification.GeneratedMSBuildEditorConfig.editorconfig
+D:\Support_Vector_Machine\Quantification\Quantification\obj\Debug\netcoreapp3.1\Quantification.AssemblyInfoInputs.cache
+D:\Support_Vector_Machine\Quantification\Quantification\obj\Debug\netcoreapp3.1\Quantification.AssemblyInfo.cs
+D:\Support_Vector_Machine\Quantification\Quantification\obj\Debug\netcoreapp3.1\Quantification.csproj.CoreCompileInputs.cache
+D:\Support_Vector_Machine\Quantification\Quantification\obj\Debug\netcoreapp3.1\Quantification.dll
+D:\Support_Vector_Machine\Quantification\Quantification\obj\Debug\netcoreapp3.1\Quantification.pdb
+D:\Support_Vector_Machine\Quantification\Quantification\obj\Debug\netcoreapp3.1\Quantification.genruntimeconfig.cache
