@@ -1,0 +1,14 @@
+D:\Fac\IA\Implementare_Proiect\GA_Good\8\Interfata\bin\Debug\EvolutionaryAlgorithm.exe.config
+D:\Fac\IA\Implementare_Proiect\GA_Good\8\Interfata\bin\Debug\EvolutionaryAlgorithm.exe
+D:\Fac\IA\Implementare_Proiect\GA_Good\8\Interfata\bin\Debug\EvolutionaryAlgorithm.pdb
+D:\Fac\IA\Implementare_Proiect\GA_Good\8\Interfata\obj\Debug\EvolutionaryAlgorithmGood.csproj.AssemblyReference.cache
+D:\Fac\IA\Implementare_Proiect\GA_Good\8\Interfata\obj\Debug\EvolutionaryAlgorithmGood.csproj.CoreCompileInputs.cache
+D:\Fac\IA\Implementare_Proiect\GA_Good\8\Interfata\obj\Debug\EvolutionaryAlgorithm.exe
+D:\Fac\IA\Implementare_Proiect\GA_Good\8\Interfata\obj\Debug\EvolutionaryAlgorithm.pdb
+D:\Support_Vector_Machine\GA_Good\8\Interfata\bin\Debug\EvolutionaryAlgorithm.exe.config
+D:\Support_Vector_Machine\GA_Good\8\Interfata\bin\Debug\EvolutionaryAlgorithm.exe
+D:\Support_Vector_Machine\GA_Good\8\Interfata\bin\Debug\EvolutionaryAlgorithm.pdb
+D:\Support_Vector_Machine\GA_Good\8\Interfata\obj\Debug\EvolutionaryAlgorithmGood.csproj.AssemblyReference.cache
+D:\Support_Vector_Machine\GA_Good\8\Interfata\obj\Debug\EvolutionaryAlgorithmGood.csproj.CoreCompileInputs.cache
+D:\Support_Vector_Machine\GA_Good\8\Interfata\obj\Debug\EvolutionaryAlgorithm.exe
+D:\Support_Vector_Machine\GA_Good\8\Interfata\obj\Debug\EvolutionaryAlgorithm.pdb
