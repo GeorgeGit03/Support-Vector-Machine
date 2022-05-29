@@ -42,4 +42,12 @@ The project has a modular structure and the order of execution of the source fil
 - GA_Acc
 - GA_Good
 - GA_Vgood
-Thus, text files that indicate the degree of belonging of an instance to a certain class by real values are generated.
+
+![AccCalculated](https://user-images.githubusercontent.com/67193200/170870397-be0f218a-e137-4082-9886-0945620fee4e.JPG)
+
+Thus, text files that indicate the degree of belonging of an instance to a certain class by real values are generated:
+- classifiedValuesUnacc.data
+- classifiedValuesAcc.data
+- classifiedValuesGood.data
+- classifiedValuesVgood.data
+
