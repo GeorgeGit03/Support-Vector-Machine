@@ -51,3 +51,4 @@ Thus, text files that indicate the degree of belonging of an instance to a certa
 - classifiedValuesGood.data
 - classifiedValuesVgood.data
 
+4. 
