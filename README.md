@@ -17,11 +17,11 @@ Below is a useful link for downloading Visual Studio 2022.
 
 The project has a modular structure and the order of execution of the source files is important because succesively intermediate data files are generated, starting from the files with training and testing data: **dataSet.data** and **dataTest.data**.
 
+# IMPORTANT 
+## A very important aspect is setting the paths to the data sets!
+
 ### Execution flow
 
-# A very important aspect is setting the paths to the data sets!
-
-###
 1. The 'Quantification' source file, which receives the dataSet.data file as input, is used to generate the quantification of the instances in each of the four classes. The resulting files are:
 - dataSetQuantifiedUnacc.data
 - dataSetQuantifiedAcc.data
