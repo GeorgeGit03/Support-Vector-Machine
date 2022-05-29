@@ -27,6 +27,7 @@ The project has a modular structure and the order of execution of the source fil
 - dataSetQuantifiedAcc.data
 - dataSetQuantifiedGood.data
 - dataSetQuantifiedVgood.data
+
 ![Writing](https://user-images.githubusercontent.com/67193200/170867923-6d3afb39-0e29-4b88-8dba-af5e222385fe.JPG)
 
 
