@@ -7,7 +7,7 @@ The basic issue of the project is the classification of a set of cars that is di
 ## Solution
 The solution proposed to solve the above-mentioned problem is an application that use an evolutionary algorithm to determine the parameters of the SVM, which are subsequently required in the classification process. After determining the equation characteric of SVM (alpha, bias, W parameters), the equation that separates the plane into two regions, the classification process can begin.
 
-Are you up to the challange?
+#### Are you up to the challange?
 
 ## Steps to run
 This project was developed in the C# language within the Visual Studio development environment. You can also use any other IDE that allows you to run source files.
