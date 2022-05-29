@@ -22,7 +22,7 @@ The project has a modular structure and the order of execution of the source fil
 
 ### Execution flow
 
-1. The 'Quantification' source file, which receives the dataSet.data file as input, is used to generate the quantification of the instances in each of the four classes. The resulting files are:
+1. The 'Quantification.sln' source file, which receives the dataSet.data file as input, is used to generate the quantification of the instances in each of the four classes. The resulting files are:
 - dataSetQuantifiedUnacc.data
 - dataSetQuantifiedAcc.data
 - dataSetQuantifiedGood.data
