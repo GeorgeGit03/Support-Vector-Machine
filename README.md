@@ -18,7 +18,7 @@ Below is a useful link for downloading Visual Studio 2022.
 The project has a modular structure and the order of execution of the source files is important because succesively intermediate data files are generated, starting from the files with training and testing data: **dataSet.data** and **dataTest.data**.
 
 # IMPORTANT 
-## A very important aspect is setting the correct paths to the data sets!
+## A very important aspect is setting the correct paths to the data sets in each source file!
 
 ### Execution flow
 
