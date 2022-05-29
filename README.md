@@ -13,4 +13,4 @@ Are you up to the challange?
 This project was developed in the C# language within the Visual Studio development environment. You can also use any other IDE that allows you to run source files.
 Below is a useful link for downloading Visual Studio 2022.
 
-[downloading Visual Studio](https://visualstudio.microsoft.com/downloads/)
+[Download Visual Studio](https://visualstudio.microsoft.com/downloads/)
