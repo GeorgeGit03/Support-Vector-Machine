@@ -22,14 +22,18 @@ The project has a modular structure and the order of execution of the source fil
 
 ### Execution flow
 
-1. The 'Quantification.sln' source file, which receives the dataSet.data file as input, is used to generate the quantification of the instances in each of the four classes. The resulting files are:
-- dataSetQuantifiedUnacc.data
-- dataSetQuantifiedAcc.data
-- dataSetQuantifiedGood.data
-- dataSetQuantifiedVgood.data
+1. The 'Quantification.sln' source file, which receives the **dataSet.data** file as input, is used to generate the quantification of the instances in each of the four classes. The resulting files are:
+- **dataSetQuantifiedUnacc.data**
+- **dataSetQuantifiedAcc.data**
+- **dataSetQuantifiedGood.data**
+- **dataSetQuantifiedVgood.data**
 
 ![Writing](https://user-images.githubusercontent.com/67193200/170867923-6d3afb39-0e29-4b88-8dba-af5e222385fe.JPG)
 
 
-2.
+2. The 'Quantification.sln' source file from 'Quantification_Of_Test_Data' folder, which receives the **dataTest.data** file as input, is used to generate the quantification of the test instances. The resulting file is:
+- **dataTestQuantified.data**
+![WritingTest](https://user-images.githubusercontent.com/67193200/170869795-475dd823-9b80-4926-ac55-c3338b6fba47.JPG)
+
+
 3.
