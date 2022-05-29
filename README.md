@@ -51,4 +51,7 @@ Thus, text files that indicate the degree of belonging of an instance to a certa
 - classifiedValuesGood.data
 - classifiedValuesVgood.data
 
-4. 
+4. Running the source code from the file **'Clasificator.sln'**. The principle of determining the class to which a instance belongs is simple. For example, if the first instace receives a maximum classification value in the **classifiedValuesUnacc.data**, then it is part of the Unacc class. The membership percentage is then determined for each class.
+
+## Results
+![Results](https://user-images.githubusercontent.com/67193200/170873051-b68a028e-9162-49e1-b97c-d865b9bbd3c5.JPG)
